@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main()
-{
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-
-    // variable declaration
+{   // variable declaration
     int i, number;
 
     // take user input
